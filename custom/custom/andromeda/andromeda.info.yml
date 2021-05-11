@@ -1,0 +1,7 @@
+name: Andromeda
+type: theme
+description: 'Tema desarrollado por SCALA'
+core_version_requirement: ^8 || ^9
+
+libraries:
+  - andromeda/global-styling
